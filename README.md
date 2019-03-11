@@ -1,0 +1,1 @@
+# Laravel-5.8-single-table-inheritance-Demo
